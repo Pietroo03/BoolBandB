@@ -10,7 +10,7 @@ Sviluppata utilizzando Node.js, Vite, React e MySQL
 - multer --> utilizzata per il caricamento di file immagini salvati in locale e aggiungerli al database
 - @sendgrid/mail --> utilizzata per il form "contatta il proprietario"
 
-##DIPENDENZA FRONT-END
+### DIPENDENZA FRONT-END
 - react
 - bootstrap
 - bootstrap-icons
