@@ -1,7 +1,7 @@
-## WEB APP REPLICA DI AIRB%B
+# WEB APP REPLICA DI AIRB%B
 Sviluppata utilizzando Node.js, Vite, React e MySQL
 
-# DIPENDENZE BACK-END
+### DIPENDENZE BACK-END
 - express
 - mysql2
 - bcryptjs --> utilizzata per l'hash della password nel database
