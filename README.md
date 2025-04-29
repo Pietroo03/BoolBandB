@@ -70,6 +70,7 @@ Web App che permette di:
 - express
 - mysql2
 - bcryptjs --> utilizzata per l'hash della password nel database
+- jsonwebtoken --> utilizzata per login e registrazione nella web app
 - cors
 - joi --> utilizzata per le validazioni lato server-side
 - multer --> utilizzata per il caricamento di file immagine salvati in locale e aggiungerli al database
